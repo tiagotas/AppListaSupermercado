@@ -4,7 +4,7 @@
              x:Class="AppListaSupermercado.View.FormularioCadastro">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Aqui vc vai montar o formulário"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
